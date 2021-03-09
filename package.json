@@ -8,8 +8,8 @@
     "url": "https://github.com/AdobeDocs/dev-site-product-template"
   },
   "author": {
-    "name": "Stephan Ringel",
-    "url": "https://github.com/icaraps"
+    "name": "Priyanka Gupta",
+    "url": "https://github.com/prigupta-adobe"
   },
   "dependencies": {
     "@adobe/gatsby-theme-aio": "^2.15.0",

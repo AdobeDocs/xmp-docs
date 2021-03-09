@@ -31,125 +31,189 @@ module.exports = {
     ],
     pages: [
       {
-        title: 'Adobe Analytics',
+        title: 'XMP Overview',
         path: '/'
       },
       {
-        title: 'Guides',
-        path: '/guides/'
+        title: 'XMP Specifications',
+        path: '/XMPSpecifications/'
       },
       {
-        title: 'API Reference',
-        path: '/api/'
+        title: 'XMP Namespaces',
+        path: '/XMPNamespaces/'
       },
-      {
-        title: 'Support',
-        path: '/support/'
+            {
+        title: 'XMP DataTypes',
+        path: '/XMPNamespaces/XMPDataTypes/'
       }
     ],
     subPages: [
       {
-        title: 'Get Started',
-        path: '/guides/',
+        title: 'XMP Namespaces',
+        path: '/XMPNamespaces/',
         pages: [
           {
-            title: 'Overview',
-            path: '/guides/'
+            title: 'Camera Raw namespace',
+            path: '/XMPNamespaces/crs/'
+          },
+          {  
+            title:"IPTC Core namespace",
+            path:'/XMPNamespaces/Iptc4xmpCore/',
           },
           {
-            title: 'Creating an OAuth Client',
-            path: '/guides/creating_oauth_client/'
+            title: 'Dublin Core namespace',
+            path: '/XMPNamespaces/dc/'
           },
           {
-            title: 'OAuth using cURL',
-            path: '/guides/oauth_using_curl/'
+            title: 'EXIF namespace',
+            path: '/XMPNamespaces/exif/'
           },
           {
-            title: 'OAuth using POSTMAN',
-            path: '/guides/oauth_using_postman/'
+            title: 'Adobe PDF namespace',
+            path: '/XMPNamespaces/pdf/'
           },
           {
-            title: 'JWT Authentication',
-            path: '/guides/jwt_authentication/'
+            title: 'Photoshop namespace',
+            path: '/XMPNamespaces/photoshop/'
+          },
+          {
+            title: 'TIFF namespace',
+            path: '/XMPNamespaces/tiff/'
+          },
+          {
+            title: 'Adobe XMP Basic namespace',
+            path: '/XMPNamespaces/xmp/'
+          },
+          {
+            title: 'Basic Job Ticket namespace',
+            path: '/XMPNamespaces/xmpBJ/'
+          },
+          {
+            title: 'XMP Dynamic Media namespace',
+            path: '/XMPNamespaces/xmpDM/'
+          },
+          {
+            title: 'XMP Media Management namespace',
+            path: '/XMPNamespaces/xmpMM/'
+          },
+          {
+            title: 'XMP Rights Management namespace',
+            path: '/XMPNamespaces/xmpRights/'
+          },
+          {
+            title: 'XMP Paged-Text namespace',
+            path: '/XMPNamespaces/xmpTPg/'
           }
         ]
       },
       {
-        title: 'Reporting API',
-        path: '/guides/reporting_api/',
+        title: 'XMP DataTypes',
+        path: '/XMPNamespaces/XMPDataTypes/',
         pages: [
           {
-            title: 'Overview',
-            path: '/guides/reporting_api/'
+            title: 'Ancestor',
+            path: '/XMPNamespaces/XMPDataTypes/Ancestor/'
           },
           {
-            title: 'Reporting with breakdowns',
-            path: '/guides/reporting_api/reporting_breakdowns/',
-            pages: [
-              {
-                title: 'Reporting with single breakdowns',
-                path: '/guides/reporting_api/reporting_breakdowns/',
-              },
-              {
-                title: 'Reporting with multiple breakdowns',
-                path: '/guides/reporting_api/reporting_breakdowns/reporting_multiple_breakdowns/',
-              },
-            ]
+            title: 'CFAPattern',
+            path: '/XMPNamespaces/XMPDataTypes/CFAPattern/'
           },
           {
-            title: 'Reporting tips and tricks',
-            path: '/guides/reporting_api/reporting_tips_tricks/'
-          }
-        ]
-      },
-      {
-        title: 'Discovery API',
-        path: '/guides/discovery_api/'
-      },
-      {
-        title: 'Segments API',
-        path: '/guides/segments_api/'
-      },
-      {
-        title: 'Calculated Metrics API',
-        path: '/guides/calculated_metrics_api/'
-      },
-      {
-        title: 'Migrating',
-        path: '/guides/migrating/'
-      },
-      {
-        title: 'Overview',
-        path: '/support/',
-        header: true,
-        pages: [
-          {
-            title: 'Help',
-            path: '/support/'
+            title: 'Colorant',
+            path: '/XMPNamespaces/XMPDataTypes/Colorant/'
           },
           {
-            title: 'FAQ',
-            path: '/support/FAQ/'
+            title: 'ContactInfo',
+            path: '/XMPNamespaces/XMPDataTypes/ContactInfo/'
           },
           {
-            title: 'How to contribute',
-            path: '/support/contribute/'
-          }
-        ]
-      },
-      {
-        title: 'Community',
-        path: '/support/community/',
-        header: true,
-        pages: [
+            title: 'CuePointParam',
+            path: '/XMPNamespaces/XMPDataTypes/CuePointParam/'
+          },
           {
-            title: 'Information',
-            path: '/support/community/'
+            title: 'DeviceSettings',
+            path: '/XMPNamespaces/XMPDataTypes/DeviceSettings/'
+          },
+          {
+            title: 'Dimensions',
+            path: '/XMPNamespaces/XMPDataTypes/Dimensions/'
+          },
+          {
+            title: 'Flash',
+            path: '/XMPNamespaces/XMPDataTypes/Flash/'
+          },
+          {
+            title: 'Font',
+            path: '/XMPNamespaces/XMPDataTypes/Font/'
+          },
+          {
+            title: 'Job',
+            path: '/XMPNamespaces/XMPDataTypes/Job/'
+          },
+          {
+            title: 'Layer',
+            path: '/XMPNamespaces/XMPDataTypes/Layer/'
+          },
+          {
+            title: 'Marker',
+            path: '/XMPNamespaces/XMPDataTypes/Marker/'
+          },
+          {
+            title: 'Media',
+            path: '/XMPNamespaces/XMPDataTypes/Media/'
+          },
+          {
+            title: 'OECF-SFR',
+            path: '/XMPNamespaces/XMPDataTypes/OECF-SFR/'
+          },
+          {
+            title: 'ProjectLink',
+            path: '/XMPNamespaces/XMPDataTypes/ProjectLink/'
+          },
+          {
+            title: 'ResourceEvent',
+            path: '/XMPNamespaces/XMPDataTypes/ResourceEvent/'
+          },
+           {
+            title: 'ResourceRef',
+            path: '/XMPNamespaces/XMPDataTypes/ResourceRef/'
+          },
+          {
+            title: 'Thumbnails',
+            path: '/XMPNamespaces/XMPDataTypes/Thumbnails/'
+          },
+          {
+            title: 'Time',
+            path: '/XMPNamespaces/XMPDataTypes/Time/'
+          },
+          {
+            title: 'Timecode',
+            path: '/XMPNamespaces/XMPDataTypes/Timecode/'
+          },
+          {
+            title: 'Track',
+            path: '/XMPNamespaces/XMPDataTypes/Track/'
+          },
+          {
+            title: 'Version',
+            path: '/XMPNamespaces/XMPDataTypes/Version/'
+          },
+          {
+            title: 'beatSpliceStretch',
+            path: '/XMPNamespaces/XMPDataTypes/beatSpliceStretch/'
+          },
+          {
+            title: 'resampleStretch',
+            path: '/XMPNamespaces/XMPDataTypes/resampleStretch/'
+          },
+           {
+            title: 'timeScaleStretch',
+            path: '/XMPNamespaces/XMPDataTypes/timeScaleStretch/'
           }
         ]
       }
     ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || '/dev-site-documentation-template/'
+  pathPrefix: process.env.PATH_PREFIX || '/xmp-docs/'
 };

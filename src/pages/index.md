@@ -1,86 +1,44 @@
----
-title: Overview - Adobe Analytics
-description: This is the overview page of Adobe Analytics
-contributors:
-  - https://github.com/simonwex 
----
+<XMP slots="image"/>
 
-<Hero slots="image, heading, text" background="rgb(64, 34, 138)"/>
+![XMP image](./xmp_tagline.png) 
 
-![Hero image](./analytics-hero.png) 
+# XMP (Extensible Metadata Platform) 
 
-# Adobe Analytics 
 
-Adobe Product API offers limitless ways to integrate your most important customer data into key business processes. Adobe Product API offer limitless ways.
+Metadata is any data that helps describe the content or characteristics of a file. You may already be accustomed to viewing and adding some basic metadata through the File Info or Document Properties box found in many software applications and some operating systems. You may also use an asset or content management system (CMS) that captures some file properties and displays them for you.
 
-<Resources slots="heading, links"/>
+**Adobe’s Extensible Metadata Platform (XMP)** is a file labeling technology that lets you embed metadata into files themselves during the content creation process. With an XMP enabled application, your workgroup can capture meaningful information about a project (such as titles and descriptions, searchable keywords, and up-to-date author and copyright information) in a format that is easily understood by your team as well as by software applications, hardware devices, and even file formats. Best of all, as team members modify files and assets, they can edit and update the metadata in real time during the workflow.
 
-#### Resources
+With XMP, desktop applications and back-end publishing systems gain a common method for capturing, sharing, and leveraging this valuable metadata. Adobe has taken the “heavy lifting” out of metadata integration, offering content creators an easy way to embed meaningful information about their projects and providing industry partners with standards-based building blocks to develop optimized workflow solutions.
 
-* [Quickstart Guide](https://www.adobe.io/apis/experiencecloud/analytics/docs.html)
-* [Adobe Analytics Github Repo](https://github.com/AdobeDocs/analytics-2.0-apis)
+<br/>
 
-## Overview
+**Open standards**
 
-This documentation provides instructions for Adobe Analytics 2.0 APIs. For working with Analytics 1.4 APIs, see [Analytics 1.4 API Documentation](https://github.com/AdobeDocs/analytics-1.4-apis).
+By providing a standard way of tagging files with metadata across products from Adobe and other vendors, XMP is a powerful solution enabler. As an open source technology, it is freely available to developers, which means that the user community benefits from the innovations contributed by developers worldwide. The XMP SDKs are available in the downloads section. Furthermore, XMP is extensible — it can accommodate existing metadata schemas, so systems don’t need to be rebuilt from scratch. A growing number of third-party applications now support XMP.
 
-The Adobe Analytics APIs are a collection of APIs that power Adobe Analytics products like Analysis Workspace. 
-The APIs allow for the creation of data rich user interfaces that you can use to manipulate and integrate data.
-You can also create reports to explore, get insights, or answer important questions about your data.
+Since early 2012, XMP is also an [ISO standard (16684-1)](https://www.iso.org/news/2012/03/Ref1525.html).
 
-## Discover 
+<br/>
 
-<DiscoverBlock width="100%" slots="heading, link, text"/>
+**Key benefits**
 
-### Get Started
+* Create smart assets that retain their context when traveling across software, devices, and databases.
+* Provide full extensibility by adding arbitrary metadata to media while visualizing it in Adobe products.
+* Enable powerful search and retrieval of rich media across diverse file formats and database systems.
+* Manage relationships of assets throughout their lifecycle of content creation and consumption.
+* Build on open standards and open source licenses to foster a common exchange across the industry.
 
-[Quickstart Guide](guides/)
-    
-Get started with the Adobe Analytics APIs.
+<br/>
 
-<DiscoverBlock slots="heading, link, text"/> 
+**Highlights**
 
-### Guides
+[Metadata Working Group](http://www.metadataworkinggroup.org/)
+Learn more about how companies are getting together to build metadata interoperability across operating systems, mobile devices, cameras, and online services.
 
-[Calculated Metrics API](guides/calculated_metrics_api/) 
-     
-Returns information on the user's company that is necessary for making other Adobe Analytics API calls.
+<br/>
 
-<DiscoverBlock slots="link, text"/>
+**XMP SDKs**
 
-[Segments API](guides/segments_api/) 
-
-Provides configuration guidance and best practices for the /segments endpoint.
-
-<DiscoverBlock slots="link, text"/>
-
-[Reporting Guide API](guides/reporting_api/)
-
-Provides configuration guidance and best practices for the /reports endpoint.
-
-<DiscoverBlock slots="link, text"/>
-
-[Migrating from 1.4 to 2.0](guides/migrating/)
-
-For help migrating from the 1.4 versions of the Analytics API to the newer and more capable /reports API.   
-
-<DiscoverBlock width="100%" slots="heading, link, text"/>
-
-### API References
-
-[Try the API](api/) 
-
-Try the Analytics API with Swagger UI. Explore, make calls, with full endpoint descriptions.
-
-## Contributing 
-
-We encourage you to participate in our open documentation initiative, if you have suggestions, corrections, additions 
-or deletions for this documentation, check out the source from [this github repo](https://github.com/adobe/gatsby-theme-spectrum-example), and submit a pull 
-request with your contribution. For more information, refer to the [contributing page](support/contribute/).
-
-## API Requests & Rate Limits
-
-The timeout for API requests through adobe.io is currently *60 seconds*.
-
-The default rate limit for an Adobe Analytics Company is *120 requests per minute*. (The limit is enforced as *12 requests every 6 seconds*).
-When rate limiting is being enforced you will get `429` HTTP response codes with the following response body: `{"error_code":"429050","message":"Too many requests"}`    
+Adobe offers two SDKs for XMP, the XMP Toolkit SDK and the XMP Metadata UI SDK.
+The XMP Toolkit SDK allows you to integrate XMP functionality into your product or solution. The XMP Metadata UI SDK lets you modify Adobe Creative Cloud applications to display custom metadata UI to either adapt the existing UI to its own workflow or to be able to interact with custom metadata. [Learn more or download the SDKs now ›](https://www.adobe.com/devnet/xmp.html)
