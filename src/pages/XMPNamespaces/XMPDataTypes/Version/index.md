@@ -6,8 +6,9 @@ Describes one version of a document.
 
 - The preferred namespace prefix is stVer
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |stVer:comments|Comments concerning what was changed  |[Text](./CoreProperties.md#text)|
 |stVer:event|High-level, formal description of what operation the user performed  |[ResourceEvent](./ResourceEvent.md)|
 |stVer:modifier|The person who modified this version  |[ProperName](./CoreProperties.md#propername)|

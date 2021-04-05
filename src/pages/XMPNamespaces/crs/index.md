@@ -6,8 +6,9 @@ This namespace specifies settings associated with image files produced in camera
 
 - The preferred namespace prefix is crs
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |crs:AutoBrightness|When true, Brightness is automatically adjusted.  |[Boolean](./XMPDataTypes/CoreProperties.md#boolean)|
 |crs:AutoContrast|When true, Contrast is automatically adjusted.  |[Boolean](./XMPDataTypes/CoreProperties.md#boolean)|
 |crs:AutoExposure|When true, Exposure is automatically adjusted.  |[Boolean](./XMPDataTypes/CoreProperties.md#boolean)|

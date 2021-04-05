@@ -12,8 +12,9 @@ The *xmpMM:History* property is always owned by the application.
 
 - The preferred namespace prefix is xmpMM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpMM:DerivedFrom|A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.  |[ResourceRef](./XMPDataTypes/ResourceRef.md)|
 |xmpMM:DocumentID|The common identifier for all versions and renditions of a resource. It should be based on a UUID; Created once for new resources. Different renditions are expected to have different values for xmpMM:DocumentID.  |[GUID](./XMPDataTypes/CoreProperties.md#guid)|
 |xmpMM:InstanceID|An identifier for a specific incarnation of a resource, updated each time a file is saved. It should be based on a UUID;   |[GUID](./XMPDataTypes/CoreProperties.md#guid)|

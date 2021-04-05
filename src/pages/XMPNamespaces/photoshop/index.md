@@ -6,8 +6,9 @@ This namespace specifies properties used by Adobe Photoshop
 
 - The preferred namespace prefix is photoshop
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |photoshop:ColorMode|The colour mode. One of: `0 = Bitmap` , `1 = Gray scale`,   `2 = Indexed colour`, `3 = RGB colour`, `4 = CMYK colour`, `7 = Multi-channel`, `8 = Duotone`, `9 = LAB colour`|Closed Choice of [Integer](./XMPDataTypes/CoreProperties.md#integer)|
 |photoshop:DocumentAncestors|If the source document for a copy-and-paste or place operation has a document ID, that ID is added to this list in the destination document's XMP.  |Unordered array of [Ancestor](./XMPDataTypes/Ancestor.md)|
 |photoshop:History|The history that appears in the FileInfo panel, if activated in the application preferences.  |[Text](./XMPDataTypes/CoreProperties.md#text)|

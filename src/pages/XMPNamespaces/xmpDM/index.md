@@ -6,8 +6,9 @@ This namespace specifies properties used by the Adobe dynamic media group.
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:absPeakAudioFilePath|The absolute path to the file’s peak audio file. If empty, no peak file exists.  |[URI](./XMPDataTypes/CoreProperties.md#uri)|
 |xmpDM:album|The name of the album.  |[Text](./XMPDataTypes/CoreProperties.md#text)|
 |xmpDM:altTapeName|An alternative tape name, set via the project window or timecode dialog in Premiere. If an alternative name has been set and has not been reverted, that name is displayed.  |[Text](./XMPDataTypes/CoreProperties.md#text)|

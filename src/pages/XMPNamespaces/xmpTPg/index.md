@@ -6,8 +6,9 @@ The Paged-Text namespace is used for text appearing on a page in a document.
 
 - The preferred namespace prefix is xmpTPg
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpTPg:Colorants|An ordered array of colorants (swatches) that are used in the document (including any in contained documents).  |Ordered array of [Colorants](./XMPDataTypes/Colorants.md)|
 |xmpTPg:Fonts|An unordered array of fonts that are used in the document (including any in contained documents).  |Unordered array of [Font](./XMPDataTypes/Font.md)|
 |xmpTPg:MaxPageSize|The size of the largest page in the document (including any in contained documents).  |[Dimensions](./XMPDataTypes/Dimensions.md)|

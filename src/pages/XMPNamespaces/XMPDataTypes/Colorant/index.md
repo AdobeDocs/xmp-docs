@@ -6,8 +6,9 @@ A structure containing the characteristics of a colorant (swatch) used in a docu
 
 - The preferred namespace prefix is xmpG
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpG:A|A value when the mode is LAB. Range -128 to 127.  |[Integer](./CoreProperties.md#integer)|
 |xmpG:B|B value when the mode is LAB. Range -128 to 127.  |[Integer](./CoreProperties.md#integer)|
 |xmpG:L|L value when the mode is LAB. Range 0-100  |[Real](./CoreProperties.md#real)|

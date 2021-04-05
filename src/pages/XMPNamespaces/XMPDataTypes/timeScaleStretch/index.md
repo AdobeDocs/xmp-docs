@@ -6,8 +6,9 @@ A set of parameters used when stretching audio using the Time-Scale stretch mode
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:frameOverlappingPercentage|The percentage of overlap between frames  |[Real](./CoreProperties.md#real)|
 |xmpDM:frameSize|The splices per beat  |[Real](./CoreProperties.md#real)|
 |xmpDM:quality|One of high, medium or low  |Closed Choice of [Text](./CoreProperties.md#text)|

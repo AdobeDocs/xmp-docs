@@ -6,8 +6,9 @@ A structure describing the flash state.
 
 - The preferred namespace prefix is exif
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |exif:Fired|True if flash fired  |[Boolean](./CoreProperties.md#boolean)|
 |exif:Function|True if flash function is not present  |[Boolean](./CoreProperties.md#boolean)|
 |exif:Mode|The flash mode. One of: `0 = unknown`, `1 = compulsory flash firing`, `2 = compulsory flash suppression`, `3 = auto mode`  |Closed Choice of [Integer](./CoreProperties.md#integer)|

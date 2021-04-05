@@ -6,8 +6,9 @@ A reference to a media asset. This is typically a local file, but can be anythin
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:duration|The duration of the asset in the timeline  |[Time](./Time.md)|
 |xmpDM:managed|When true, this is a rights-managed resource  |[Boolean](./CoreProperties.md#boolean)|
 |xmpDM:path|The location of the asset  |[URI](./CoreProperties.md#uri)|

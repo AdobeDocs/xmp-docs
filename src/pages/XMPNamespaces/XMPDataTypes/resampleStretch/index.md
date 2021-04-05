@@ -6,6 +6,7 @@ A set of parameters used when stretching audio using the Resample stretch mode.
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:quality|One of High, Medium or Low  |Closed Choice of [Text](./CoreProperties.md#text)|

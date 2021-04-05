@@ -6,8 +6,9 @@ The Dublin Core namespace provides a set of commonly used properties. The names 
 
 - The preferred namespace prefix is dc
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |dc:contributor|**DCMI definition**: An entity responsible for making contributions to the resource. **DCMI comment**: Examples of a contributor include a person, an organization, or a service. Typically, the name of a contributor should be used to indicate the entity. **XMP addition**: XMP usage is a list of contributors. These contributors should not include those listed in dc:creator.  |Unordered array of [ProperName](./XMPDataTypes/CoreProperties.md#propername)|
 |dc:coverage|**DCMI definition**: The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant. **XMP addition**: XMP usage is the extent or scope of the resource.  |[Text](./XMPDataTypes/CoreProperties.md#text)|
 |dc:creator|**DCMI definition**: An entity primarily responsible for making the resource. **DCMI comment**: Examples of a creator include a person, an organization, or a service. Typically, the name of a creator should be used to indicate the entity. **XMP addition**: XMP usage is a list of creators. Entities should be listed in order of decreasing precedence, if such order is significant.  |Ordered array of [ProperName](./XMPDataTypes/CoreProperties.md#propername)|

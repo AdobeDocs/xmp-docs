@@ -6,8 +6,9 @@ The XMP basic namespace contains properties that provide basic descriptive infor
 
 - The preferred namespace prefix is xmp
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmp:CreateDate|The date and time the resource was created. For a digital file, this need not match a file-system creation time. For a freshly created resource, it should be close to that time, modulo the time taken to write the file. Later file transfer, copying, and so on, can make the file-system time arbitrarily different.  |[Date](./XMPDataTypes/CoreProperties.md#date)|
 |xmp:CreatorTool|The name of the first known tool used to create the resource.  |[AgentName](./XMPDataTypes/CoreProperties.md#agent-name)|
 |xmp:Identifier|An unordered array of text strings that unambiguously identify the resource within a given context. An array item may be qualified with xmpidq:Scheme to denote the formal identification system to which that identifier conforms. NOTE: The xmp:Identifier property was added because dc:identifier has been defined in the original XMP specification as a single identifier instead of as an array, and changing dc:identifier to an array would break compatibility with existing XMP processors.  |Unordered array of [Text](./XMPDataTypes/CoreProperties.md#text)|

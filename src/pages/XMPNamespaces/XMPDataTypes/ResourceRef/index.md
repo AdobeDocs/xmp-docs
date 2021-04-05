@@ -6,8 +6,9 @@ A multiple part reference to a resource. Used to indicate prior versions, origin
 
 - The preferred namespace prefix is stRef
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |stRef:documentID|The value of the xmpMM:DocumentID property from the referenced resource.  |[GUID](./CoreProperties.md#guid)|
 |stRef:filePath|The referenced resource’s file path or URL.  |[URI](./CoreProperties.md#uri)|
 |stRef:instanceID|The value of the xmpMM:InstanceID property from the referenced resource.  |[GUID](./CoreProperties.md#guid)|

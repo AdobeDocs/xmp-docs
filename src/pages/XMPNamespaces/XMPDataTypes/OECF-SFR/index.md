@@ -6,8 +6,9 @@ A structure describing the OECF/SFR.
 
 - The preferred namespace prefix is exif
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |exif:Columns|Number of columns,*n* |[Integer](./CoreProperties.md#integer)|
 |exif:Names|Column item names, *n* entries  |Ordered array of [Text](./CoreProperties.md#text)|
 |exif:Rows|Number of rows,*m*  |[Integer](./CoreProperties.md#integer)|

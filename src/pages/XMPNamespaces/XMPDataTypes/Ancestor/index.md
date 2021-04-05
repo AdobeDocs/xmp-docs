@@ -6,6 +6,7 @@ A structure identifying a document that was copied or placed into the current do
 
 - The preferred namespace prefix is photoshop
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |photoshop:AncestorID|The unique identifier of a document  |[URI](./CoreProperties.md#uri)|

@@ -6,8 +6,9 @@ A structure containing the characteristics of a font used in a document.
 
 - The preferred namespace prefix is stFnt
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |stFnt:childFontFiles|The list of file names for the fonts that make up a composite font  |Ordered array of [Text](./CoreProperties.md#text)|
 |stFnt:composite|When true, this is a composite font  |[Boolean](./CoreProperties.md#boolean)|
 |stFnt:fontFace|The font face name  |[Text](./CoreProperties.md#text)|
