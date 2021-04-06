@@ -7,8 +7,9 @@ EXIF Schema For EXIF-Specific Properties. These properties defined solely by EXI
 
 - The preferred namespace prefix is exif
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |exif:ApertureValue|EXIF tag 37378, 0x9202. Lens aperture, unit is APEX.  |[Rational](./XMPDataTypes/CoreProperties.md#rational)|
 |exif:BrightnessValue|EXIF tag 37379, 0x9203. Brightness, unit is APEX.  |[Rational](./XMPDataTypes/CoreProperties.md#rational)|
 |exif:CFAPattern|EXIF tag 41730, 0xA302. Color filter array geometric pattern of the image sense.  |[CFAPattern](./XMPDataTypes/CFAPattern.md)|

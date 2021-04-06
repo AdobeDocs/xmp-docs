@@ -6,8 +6,9 @@ A named set of Markers, that can specify different default time-frame rates from
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:frameRate|The default frame rate for the markers in the track  |[FrameRate](./CoreProperties.md#framerate)|
 |xmpDM:markers|An ordered list of markers  |Ordered array of [Marker](./CoreProperties/Marker.md)|
 |xmpDM:trackName|The name of the track (For example: Lyrics, Speech, Voiceover, Audition Conditions, and so on)  |[Text](./CoreProperties.md#text)|

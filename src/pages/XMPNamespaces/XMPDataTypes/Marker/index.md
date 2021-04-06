@@ -6,8 +6,9 @@ A marker type used to describe an important location in an audio or video sequen
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:comment|Optional. A descriptive comment  |[Text](./CoreProperties.md#text)|
 |xmpDM:cuePointParams|Optional. An ordered sequence of processing parameters for an FLVCuePoint-type marker  |Ordered array of [CuePointParam](./CuePointParam.md)|
 |xmpDM:cuePointType|Optional. The cue-point type for an FLVCuePoint-type marker, one of Navigation or Event  |[Text](./CoreProperties.md#text)|

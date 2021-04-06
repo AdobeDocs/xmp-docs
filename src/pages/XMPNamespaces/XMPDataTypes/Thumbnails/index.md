@@ -6,8 +6,9 @@ A thumbnail image for a file.
 
 - The preferred namespace prefix is xmpGImg
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpGImg:format|The image encoding. Defined value: JPEG.  |Closed choice of [Text](./CoreProperties.md#text)|
 |xmpGImg:height|Height in pixels  |[Integer](./CoreProperties.md#integer)|
 |xmpGImg:width|Width in pixels  |[Integer](./CoreProperties.md#integer)|

@@ -6,8 +6,9 @@ IPTC Photo Metadata provides data about photographs and the values can be proces
 
 - The preferred namespace prefix is Iptc4xmpCore
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |Iptc4xmpCore:CreatorContactInfo|The creator contact information provides all necessary information to get in contact with the creator of this news object and comprises a set of sub-properties for proper addressing  |[ContactInfo](./XMPDataTypes/ContactInfo.md)|
 |Iptc4xmpCore:IntellectualGenre|Describes the nature, intellectual or journalistic characteristic of a news object, not specifically its content.  |[Text](./XMPDataTypes/CoreProperties.md#text)|
 |Iptc4xmpCore:Scene|Describes the scene of a photo content. Specifies one ore more terms from the IPTC Scene-NewsCodes. Each Scene is represented as a string of 6 digits in an unordered list.  |Unordered array of [Text](./XMPDataTypes/CoreProperties.md#text)|

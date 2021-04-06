@@ -6,7 +6,8 @@ A key-value pair describing a parameter of a cue-point [Marker](Marker.md).
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:key|The key  |[Text](./CoreProperties.md#text)|
 |xmpDM:value|The value  |[Text](./CoreProperties.md#text)|

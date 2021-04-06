@@ -6,8 +6,9 @@ This namespace specifies properties used with Adobe PDF documents.
 
 - The preferred namespace prefix is pdf
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |pdf:Keywords|Keywords.  |[Text](./XMPDataTypes/CoreProperties.md#text)|
 |pdf:PDFVersion|The PDF file version (for example: 1.0, 1.3, and so on).  |[Text](./XMPDataTypes/CoreProperties.md#text)|
 |pdf:Producer|The name of the tool that created the PDF document.  |[AgentName](./XMPDataTypes/CoreProperties.md#agent-name)|

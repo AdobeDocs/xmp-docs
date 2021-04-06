@@ -6,8 +6,9 @@ EXIF properties for TIFF-derived data.
 
 - The preferred namespace prefix is tiff
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |tiff:Artist|Camera owner, photographer or image creator. **NOTE**: *This property is stored in XMP as the first item in the dc:creator array.*  |[ProperName](./XMPDataTypes/CoreProperties.md#propername)|
 |tiff:BitsPerSample|Number of bits per component in each channel.  |Ordered array of [Integer](./XMPDataTypes/CoreProperties.md#integer)|
 |tiff:Compression|Compression scheme. `1 = Uncompressed` , `6 = JPEG`  |Closed Choice of [Integer](./XMPDataTypes/CoreProperties.md#integer)|

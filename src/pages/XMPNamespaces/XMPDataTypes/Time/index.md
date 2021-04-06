@@ -6,7 +6,8 @@ A representation of a time value in seconds. This is similar to After Effect’s
 
 - The preferred namespace prefix is xmpDM
 
-|Name|Description|Type|
+|    |           |    |
 |----|-----------|----|
+|**Name**|**Description**|**Type**|
 |xmpDM:scale|The scale for the time value. For NTSC, use 1001/30000, or the less accurate 100/2997. For PAL, use 1/25.|[Rational](./CoreProperties.md#rational)|
 |xmpDM:value|The time value in the specified scale  |[Integer](./CoreProperties.md#integer)|
