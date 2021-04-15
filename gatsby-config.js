@@ -12,11 +12,6 @@
 
 module.exports = {
   siteMetadata: {
-    versions: [
-      {
-        title: 'v2.0'
-      }
-    ],
     pages: [
       {
         title: 'XMP Overview',
