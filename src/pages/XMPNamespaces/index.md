@@ -1,4 +1,4 @@
-## XMP namespace definitions
+# XMP namespace definitions
 
 The XMP namespaces define a set of properties. In any given XMP Packet, a property may be absent or present.For any given XMP, there is no requirement that all properties from a given namespace must be present. For structured properties, there is no requirement that all fields be present (unless otherwise specified by a namespace).
 
@@ -14,7 +14,7 @@ XMP defines namespaces into *two* catagories:
 1. *XMP standard namespaces*, provides namespace definitions for standard general-purpose namespaces.
 2. *Specialized Namespaces*, provides namespace definitions for namespaces that are specialized for Adobe applications or usages
 
-**XMP Standard Namespaces**
+## XMP Standard Namespaces
 
 * [XMP Namespace](XMPNamespaces/xmp.md)
 * [XMP Media Management Namespace](XMPNamespaces/xmpMM.md)
@@ -23,7 +23,8 @@ XMP defines namespaces into *two* catagories:
 * [XMP Dynamic Media Namespace](XMPNamespaces/xmpDM.md)
 * [XMP Rights Management Namespace](XMPNamespaces/xmpRights.md)
 
-**XMP Specialized Namespaces**
+## XMP Specialized Namespaces
+
 * [Adobe PDF Namespace](XMPNamespaces/pdf.md)
 * [Photoshop Namespace](XMPNamespaces/photoshop.md)
 * [Camera Raw Namespace](XMPNamespaces/crs.md)
