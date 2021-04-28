@@ -1,8 +1,8 @@
-<Hero slots="image, heading" theme="lightest" background="white"/>
+<Hero slots="image, heading" theme="light" background="white"/>
 
 ![XMP (Extensible Metadata Platform)](xmp_banner.png)
 
-# XMP (Extensible Metadata Platform)
+# XMP <br/> (Extensible Metadata Platform)
 
 ## Overview
 
