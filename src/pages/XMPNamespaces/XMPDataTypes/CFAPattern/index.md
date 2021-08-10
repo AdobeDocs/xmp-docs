@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # CFAPattern
 
 A structure describing the CFA pattern.

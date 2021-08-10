@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Version
 
 Describes one version of a document.

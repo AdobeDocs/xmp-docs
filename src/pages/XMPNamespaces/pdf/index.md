@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Adobe PDF namespace
 
 This namespace specifies properties used with Adobe PDF documents.

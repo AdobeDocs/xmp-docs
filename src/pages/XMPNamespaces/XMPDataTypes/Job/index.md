@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Job
 
 Describes a job for a job-management system.

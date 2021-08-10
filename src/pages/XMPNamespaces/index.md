@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # XMP namespace definitions
 
 The XMP namespaces define a set of properties. In any given XMP Packet, a property may be absent or present.For any given XMP, there is no requirement that all properties from a given namespace must be present. For structured properties, there is no requirement that all fields be present (unless otherwise specified by a namespace).

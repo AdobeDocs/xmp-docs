@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Font
 
 A structure containing the characteristics of a font used in a document.

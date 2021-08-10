@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # OECF-SFR
 
 A structure describing the OECF/SFR.

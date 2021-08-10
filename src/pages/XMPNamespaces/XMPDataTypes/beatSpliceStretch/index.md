@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # beatSpliceStretch
 
 A set of parameters used when stretching audio using the Beat Splice stretch mode.

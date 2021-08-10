@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # TIFF namespace
 
 EXIF properties for TIFF-derived data.

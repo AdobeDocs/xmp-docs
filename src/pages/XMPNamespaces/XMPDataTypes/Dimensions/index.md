@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Dimensions
 
 A structure containing dimensions for a drawn object.

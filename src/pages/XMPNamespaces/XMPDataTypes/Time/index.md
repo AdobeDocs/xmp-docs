@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Time
 
 A representation of a time value in seconds. This is similar to After Effect’s TDB, or QuickTime’s representation of time. They each have a value, and the scale of the value. For example, if the scale is the rational 1/25 (PAL 25fps), and the value is 50, the time is 2 seconds.

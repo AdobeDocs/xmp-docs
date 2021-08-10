@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Thumbnail
 
 A thumbnail image for a file.

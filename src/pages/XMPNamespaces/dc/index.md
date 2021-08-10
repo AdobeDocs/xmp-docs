@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Dublin Core namespace
 
 The Dublin Core namespace provides a set of commonly used properties. The names and usage shall be as defined in the Dublin Core Metadata Element Set, created by the Dublin Core Metadata Initiative (DCMI).

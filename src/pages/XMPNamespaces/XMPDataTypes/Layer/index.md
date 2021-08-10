@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Layer
 
 A structure associating an identifying name and text content with a text layer of a Photoshop document.

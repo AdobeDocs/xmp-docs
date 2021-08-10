@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Camera Raw namespace
 
 This namespace specifies settings associated with image files produced in camera raw mode.

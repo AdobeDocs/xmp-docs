@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # XMP Paged-Text namespace
 
 The Paged-Text namespace is used for text appearing on a page in a document.

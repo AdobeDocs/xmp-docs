@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Flash
 
 A structure describing the flash state.

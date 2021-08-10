@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # resampleStretch
 
 A set of parameters used when stretching audio using the Resample stretch mode.

@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # XMP Media Management namespace
 
 This namespace is primarily for use by digital asset management (DAM) systems.

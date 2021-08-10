@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Photoshop namespace
 
 This namespace specifies properties used by Adobe Photoshop

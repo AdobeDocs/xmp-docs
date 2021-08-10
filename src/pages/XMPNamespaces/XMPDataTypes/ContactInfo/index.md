@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # ContactInfo
 
 A structure providing a basic set of information to get in contact with a person.

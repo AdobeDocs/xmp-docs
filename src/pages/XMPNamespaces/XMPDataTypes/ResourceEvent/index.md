@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # ResourceEvent
 
 A structure denoting a high-level event that occurred in the processing of a resource.

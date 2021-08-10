@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # CuePointParam
 
 A key-value pair describing a parameter of a cue-point [Marker](Marker.md).

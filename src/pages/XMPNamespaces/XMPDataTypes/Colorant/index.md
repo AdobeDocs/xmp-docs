@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Colorant
 
 A structure containing the characteristics of a colorant (swatch) used in a document.

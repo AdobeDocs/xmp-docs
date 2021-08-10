@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 
 ## Overview of XMP technology
 

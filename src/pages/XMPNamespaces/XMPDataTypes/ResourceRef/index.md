@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # ResourceRef
 
 A multiple part reference to a resource. Used to indicate prior versions, originals of renditions, originals for derived documents, and so on. The fields present in any specific reference depend on usage and on whether the referenced resource is managed. Except for instanceID, the fields are all properties from the referenced resource's xmpMM namespace.

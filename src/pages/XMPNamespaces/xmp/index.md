@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Adobe XMP Basic namespace
 
 The XMP basic namespace contains properties that provide basic descriptive information.

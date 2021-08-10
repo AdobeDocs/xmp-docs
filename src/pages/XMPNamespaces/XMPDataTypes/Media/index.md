@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Media
 
 A reference to a media asset. This is typically a local file, but can be anything that can be specified with a URL. Contains information about usage in the parent media (typically a sequence), and the associated media rights.

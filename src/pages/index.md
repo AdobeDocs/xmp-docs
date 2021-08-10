@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 <Hero slots="image, heading" theme="light" background="white"/>
 
 ![XMP (Extensible Metadata Platform)](xmp_banner.png)

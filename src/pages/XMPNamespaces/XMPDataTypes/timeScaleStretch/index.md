@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # timeScaleStretch
 
 A set of parameters used when stretching audio using the Time-Scale stretch mode.

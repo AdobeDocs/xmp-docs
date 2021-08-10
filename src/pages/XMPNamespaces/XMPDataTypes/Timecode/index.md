@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Timecode
 
 A timecode value in video.

@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # XMP Dynamic Media namespace
 
 This namespace specifies properties used by the Adobe dynamic media group.

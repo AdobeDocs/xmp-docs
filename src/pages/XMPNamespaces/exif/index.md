@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # EXIF namespace
 
 

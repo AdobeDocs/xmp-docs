@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # DeviceSettings
 
 A structure describing the device settings.

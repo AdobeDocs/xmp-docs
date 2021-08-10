@@ -1,3 +1,8 @@
+---
+keywords:
+  - xmp
+---
+
 # Basic Job Ticket namespace
 
 This namespace describes very simple workflow or job information.
