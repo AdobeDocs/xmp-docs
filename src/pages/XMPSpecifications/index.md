@@ -20,4 +20,4 @@ Part 1 is also a covered as part of **_ ISO 16684-1:2012, Graphic technology –
 
 The Partners Guide to XMP for Dynamic Media provides guidance to developers writing applications that read, write, and modify dynamic media documents, so that those applications can maintain the integrity of the composition and editing history and temporal metadata in composed documents.
 
-[Partners Guide to XMP for Dynamic Media](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/xmp/pdfs/DynamicMediaXMPPartnerGuide.pdf)
+[Partners Guide to XMP for Dynamic Media](https://github.com/adobe/XMP-Toolkit-SDK/blob/main/docs/DynamicMediaXMPPartnerGuide.pdf)
