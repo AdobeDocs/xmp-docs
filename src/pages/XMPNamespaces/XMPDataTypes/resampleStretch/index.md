@@ -9,4 +9,4 @@ A set of parameters used when stretching audio using the Resample stretch mode.
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|xmpDM:quality|One of High, Medium or Low  |Closed Choice of [Text](./CoreProperties.md#text)|
+|xmpDM:quality|One of High, Medium or Low  |Closed Choice of [Text](./index.md#text)|

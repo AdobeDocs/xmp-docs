@@ -9,5 +9,5 @@ A key-value pair describing a parameter of a cue-point [Marker](Marker.md).
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|xmpDM:key|The key  |[Text](./CoreProperties.md#text)|
-|xmpDM:value|The value  |[Text](./CoreProperties.md#text)|
+|xmpDM:key|The key  |[Text](./index.md#text)|
+|xmpDM:value|The value  |[Text](./index.md#text)|

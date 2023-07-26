@@ -9,7 +9,7 @@ This namespace specifies properties used with Adobe PDF documents.
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|pdf:Keywords|Keywords.  |[Text](./XMPDataTypes/CoreProperties.md#text)|
-|pdf:PDFVersion|The PDF file version (for example: 1.0, 1.3, and so on).  |[Text](./XMPDataTypes/CoreProperties.md#text)|
-|pdf:Producer|The name of the tool that created the PDF document.  |[AgentName](./XMPDataTypes/CoreProperties.md#agent-name)|
-|pdf:Trapped|True when the document has been trapped.  |[Boolean](./XMPDataTypes/CoreProperties.md#boolean)|
+|pdf:Keywords|Keywords.  |[Text](./XMPDataTypes/index.md#text)|
+|pdf:PDFVersion|The PDF file version (for example: 1.0, 1.3, and so on).  |[Text](./XMPDataTypes/index.md#text)|
+|pdf:Producer|The name of the tool that created the PDF document.  |[AgentName](./XMPDataTypes/index.md#agent-name)|
+|pdf:Trapped|True when the document has been trapped.  |[Boolean](./XMPDataTypes/index.md#boolean)|

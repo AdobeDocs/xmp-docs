@@ -9,5 +9,5 @@ A structure associating an identifying name and text content with a text layer o
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|photoshop:LayerName|The identifying name of the text layer  |[Text](./CoreProperties.md#text)|
-|photoshop:LayerText|The text content of the text layer.  |[Text](./CoreProperties.md#text)|
+|photoshop:LayerName|The identifying name of the text layer  |[Text](./index.md#text)|
+|photoshop:LayerText|The text content of the text layer.  |[Text](./index.md#text)|

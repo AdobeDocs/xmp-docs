@@ -10,8 +10,8 @@ A reference to a media asset. This is typically a local file, but can be anythin
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
 |xmpDM:duration|The duration of the asset in the timeline  |[Time](./Time.md)|
-|xmpDM:managed|When true, this is a rights-managed resource  |[Boolean](./CoreProperties.md#boolean)|
-|xmpDM:path|The location of the asset  |[URI](./CoreProperties.md#uri)|
+|xmpDM:managed|When true, this is a rights-managed resource  |[Boolean](./index.md#boolean)|
+|xmpDM:path|The location of the asset  |[URI](./index.md#uri)|
 |xmpDM:startTime|The timeline position of the start of the asset, an offset from the beginning of the file that contains the track  |[Time](./Time.md)|
-|xmpDM:track|An identifier for the track that contained this asset. Could be a track name or a number.  |[Text](./CoreProperties.md#text)|
-|xmpDM:webStatement|The location of a web page describing the owner and/or rights statement for this resource  |[URI](./CoreProperties.md#uri)|
+|xmpDM:track|An identifier for the track that contained this asset. Could be a track name or a number.  |[Text](./index.md#text)|
+|xmpDM:webStatement|The location of a web page describing the owner and/or rights statement for this resource  |[URI](./index.md#uri)|
