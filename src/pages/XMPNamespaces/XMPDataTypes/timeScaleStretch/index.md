@@ -9,6 +9,6 @@ A set of parameters used when stretching audio using the Time-Scale stretch mode
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|xmpDM:frameOverlappingPercentage|The percentage of overlap between frames  |[Real](./index.md#real)|
-|xmpDM:frameSize|The splices per beat  |[Real](./index.md#real)|
-|xmpDM:quality|One of high, medium or low  |Closed Choice of [Text](./index.md#text)|
+|xmpDM:frameOverlappingPercentage|The percentage of overlap between frames  |[Real](../index.md#real)|
+|xmpDM:frameSize|The splices per beat  |[Real](../index.md#real)|
+|xmpDM:quality|One of high, medium or low  |Closed Choice of [Text](../index.md#text)|

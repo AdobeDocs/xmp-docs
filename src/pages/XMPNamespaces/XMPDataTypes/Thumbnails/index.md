@@ -9,7 +9,7 @@ A thumbnail image for a file.
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|xmpGImg:format|The image encoding. Defined value: JPEG.  |Closed choice of [Text](./index.md#text)|
-|xmpGImg:height|Height in pixels  |[Integer](./index.md#integer)|
-|xmpGImg:width|Width in pixels  |[Integer](./index.md#integer)|
-|xmpGImg:image|The full thumbnail image data, converted to base 64 notation(according to section 6.8 of RFC 2045). This is the thumbnail data typically found in a digital image, such as the value of tag 513 in a JPEG stream.  |[Text](./index.md#text)|
+|xmpGImg:format|The image encoding. Defined value: JPEG.  |Closed choice of [Text](../index.md#text)|
+|xmpGImg:height|Height in pixels  |[Integer](../index.md#integer)|
+|xmpGImg:width|Width in pixels  |[Integer](../index.md#integer)|
+|xmpGImg:image|The full thumbnail image data, converted to base 64 notation(according to section 6.8 of RFC 2045). This is the thumbnail data typically found in a digital image, such as the value of tag 513 in a JPEG stream.  |[Text](../index.md#text)|

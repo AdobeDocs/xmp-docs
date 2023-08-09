@@ -9,6 +9,6 @@ A structure describing the device settings.
 |    |           |    |
 |----|-----------|----|
 |**Name**|**Description**|**Type**|
-|exif:Columns|Display columns |[Integer](./index.md#integer)|
-|exif:Rows|Display rows  |[Integer](./index.md#integer)|
-|exif:Values|Camera settings, in order  |Ordered array of [Text](./index.md#text)|
+|exif:Columns|Display columns |[Integer](../index.md#integer)|
+|exif:Rows|Display rows  |[Integer](../index.md#integer)|
+|exif:Values|Camera settings, in order  |Ordered array of [Text](../index.md#text)|
