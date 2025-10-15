@@ -28,3 +28,4 @@ This namespace specifies properties used by Adobe Photoshop
 |photoshop:SupplementalCategories|Supplemental category.  |Unordered array of [Text](./XMPDataTypes/index.md#text)|
 |photoshop:TransmissionReference|Original transmission reference.  |[Text](./XMPDataTypes/index.md#text)|
 |photoshop:Urgency|Urgency. Valid range is 1-8.  |[Integer](./XMPDataTypes/index.md#integer)|
+|photoshop:LabelColor|A user-assigned color for this file. The value can be either a predefined name (red, yellow, green, blue, purple) or a hexadecimal value in the #RRGGBB format interpreted in sRGB color space.  |[Text](./XMPDataTypes/index.md#text)|
