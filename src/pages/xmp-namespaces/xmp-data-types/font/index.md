@@ -2,7 +2,7 @@
 
 A structure containing the characteristics of a font used in a document.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/sType/Font#
+- The namespace URI is [http://ns.adobe.com/xap/1.0/sType/Font#](http://ns.adobe.com/xap/1.0/sType/Font#)
 
 - The preferred namespace prefix is stFnt
 

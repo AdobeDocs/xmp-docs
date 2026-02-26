@@ -2,7 +2,7 @@
 
 A thumbnail image for a file.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/g/img/
+- The namespace URI is [http://ns.adobe.com/xap/1.0/g/img/](http://ns.adobe.com/xap/1.0/g/img/)
 
 - The preferred namespace prefix is xmpGImg
 

@@ -2,7 +2,7 @@
 
 A structure containing dimensions for a drawn object.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/sType/Dimensions#
+- The namespace URI is [http://ns.adobe.com/xap/1.0/sType/Dimensions#](http://ns.adobe.com/xap/1.0/sType/Dimensions#)
 
 - The preferred namespace prefix is stDim
 

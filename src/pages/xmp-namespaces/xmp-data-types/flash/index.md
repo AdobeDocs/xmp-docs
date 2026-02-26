@@ -2,7 +2,7 @@
 
 A structure describing the flash state.
 
-- The namespace URI is http://ns.adobe.com/exif/1.0/
+- The namespace URI is [http://ns.adobe.com/exif/1.0/](http://ns.adobe.com/exif/1.0/)
 
 - The preferred namespace prefix is exif
 

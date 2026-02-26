@@ -2,7 +2,7 @@
 
 A structure associating an identifying name and text content with a text layer of a Photoshop document.
 
-- The namespace URI is http://ns.adobe.com/photoshop/1.0/
+- The namespace URI is [http://ns.adobe.com/photoshop/1.0/](http://ns.adobe.com/photoshop/1.0/)
 
 - The preferred namespace prefix is photoshop
 

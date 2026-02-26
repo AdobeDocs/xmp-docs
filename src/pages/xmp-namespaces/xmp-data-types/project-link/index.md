@@ -2,7 +2,7 @@
 
 The type of a video file and path of the project that created it.
 
-- The namespace URI is http://ns.adobe.com/xmp/1.0/DynamicMedia/
+- The namespace URI is [http://ns.adobe.com/xmp/1.0/DynamicMedia/](http://ns.adobe.com/xmp/1.0/DynamicMedia/)
 
 - The preferred namespace prefix is xmpDM
 

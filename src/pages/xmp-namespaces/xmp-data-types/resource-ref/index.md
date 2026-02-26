@@ -2,7 +2,7 @@
 
 A multiple part reference to a resource. Used to indicate prior versions, originals of renditions, originals for derived documents, and so on. The fields present in any specific reference depend on usage and on whether the referenced resource is managed. Except for instanceID, the fields are all properties from the referenced resource's xmpMM namespace.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/sType/ResourceRef#
+- The namespace URI is [http://ns.adobe.com/xap/1.0/sType/ResourceRef#](http://ns.adobe.com/xap/1.0/sType/ResourceRef#)
 
 - The preferred namespace prefix is stRef
 

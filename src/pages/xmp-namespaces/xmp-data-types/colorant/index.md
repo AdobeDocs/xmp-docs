@@ -2,7 +2,7 @@
 
 A structure containing the characteristics of a colorant (swatch) used in a document.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/g/
+- The namespace URI is [http://ns.adobe.com/xap/1.0/g/](http://ns.adobe.com/xap/1.0/g/)
 
 - The preferred namespace prefix is xmpG
 

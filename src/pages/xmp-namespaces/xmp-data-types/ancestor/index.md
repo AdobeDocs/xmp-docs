@@ -2,7 +2,7 @@
 
 A structure identifying a document that was copied or placed into the current document.
 
-- The namespace URI is http://ns.adobe.com/photoshop/1.0/
+- The namespace URI is [http://ns.adobe.com/photoshop/1.0/](http://ns.adobe.com/photoshop/1.0/)
 
 - The preferred namespace prefix is photoshop
 

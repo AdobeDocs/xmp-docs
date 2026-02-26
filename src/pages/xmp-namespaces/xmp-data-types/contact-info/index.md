@@ -2,7 +2,7 @@
 
 A structure providing a basic set of information to get in contact with a person.
 
-- The namespace URI is http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/
+- The namespace URI is [http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/](http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/)
 
 - The preferred namespace prefix is Iptc4xmpCore
 

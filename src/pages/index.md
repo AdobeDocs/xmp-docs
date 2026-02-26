@@ -2,7 +2,7 @@
 
 ![XMP (Extensible Metadata Platform)](xmp_banner.png)
 
-# XMP <br/> (Extensible Metadata Platform)
+# XMP \<br/\> (Extensible Metadata Platform)
 
 ## Overview
 

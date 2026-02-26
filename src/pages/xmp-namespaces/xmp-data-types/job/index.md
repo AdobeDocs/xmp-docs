@@ -2,7 +2,7 @@
 
 Describes a job for a job-management system.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/sType/Job#
+- The namespace URI is [http://ns.adobe.com/xap/1.0/sType/Job#](http://ns.adobe.com/xap/1.0/sType/Job#)
 
 - The preferred namespace prefix is stJob
 

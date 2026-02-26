@@ -2,7 +2,7 @@
 
 A set of parameters used when stretching audio using the Beat Splice stretch mode.
 
-- The namespace URI is http://ns.adobe.com/xmp/1.0/DynamicMedia/
+- The namespace URI is [http://ns.adobe.com/xmp/1.0/DynamicMedia/](http://ns.adobe.com/xmp/1.0/DynamicMedia/)
 
 - The preferred namespace prefix is xmpDM
 

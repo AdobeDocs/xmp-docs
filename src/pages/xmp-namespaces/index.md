@@ -16,19 +16,19 @@ XMP defines namespaces into *two* catagories:
 
 ## XMP Standard Namespaces
 
-* [XMP Namespace](XMPNamespaces/xmp.md)
-* [XMP Media Management Namespace](XMPNamespaces/xmpMM.md)
-* [XMP Basic Job Ticket Namespace](XMPNamespaces/xmpBJ.md)
-* [XMP Paged-text Namespace](XMPNamespaces/xmpTPg.md)
-* [XMP Dynamic Media Namespace](XMPNamespaces/xmpDM.md)
-* [XMP Rights Management Namespace](XMPNamespaces/xmpRights.md)
+* [XMP Namespace](xmp/index.md)
+* [XMP Media Management Namespace](xmp-mm/index.md)
+* [XMP Basic Job Ticket Namespace](xmp-bj/index.md)
+* [XMP Paged-text Namespace](xmp-t-pg/index.md)
+* [XMP Dynamic Media Namespace](xmp-dm/index.md)
+* [XMP Rights Management Namespace](xmp-rights/index.md)
 
 ## XMP Specialized Namespaces
 
-* [Adobe PDF Namespace](XMPNamespaces/pdf.md)
-* [Photoshop Namespace](XMPNamespaces/photoshop.md)
-* [Camera Raw Namespace](XMPNamespaces/crs.md)
-* [Exif Namespace](XMPNamespaces/exif.md)
-* [Tiff Namespace](XMPNamespaces/tiff.md)
-* [Dublin Core Namespace](XMPNamespaces/dc.md)
-* [IPTC Core Namespace](XMPNamespaces/Iptc4xmpCore.md)
+* [Adobe PDF Namespace](pdf/index.md)
+* [Photoshop Namespace](photoshop/index.md)
+* [Camera Raw Namespace](crs/index.md)
+* [Exif Namespace](exif/index.md)
+* [Tiff Namespace](tiff/index.md)
+* [Dublin Core Namespace](dc/index.md)
+* [IPTC Core Namespace](iptc4-xmp-core/index.md)

@@ -2,7 +2,7 @@
 
 A structure denoting a high-level event that occurred in the processing of a resource.
 
-- The namespace URI is http://ns.adobe.com/xap/1.0/sType/ResourceEvent#
+- The namespace URI is [http://ns.adobe.com/xap/1.0/sType/ResourceEvent#](http://ns.adobe.com/xap/1.0/sType/ResourceEvent#)
 
 - The preferred namespace prefix is stEvt
 

@@ -120,7 +120,7 @@ This page defines a collection of XMP data types that are used to represent valu
 
     A structure denoting a multiple-component reference to a resource. The field values are taken from various properties in the referenced resource.  
 
-    *   The field namespace URI shall be "http://ns.adobe.com/xap/1.0/sType/ResourceRef#".
+    *   The field namespace URI shall be [http://ns.adobe.com/xap/1.0/sType/ResourceRef#](http://ns.adobe.com/xap/1.0/sType/ResourceRef#).
     *   The preferred field namespace prefix is stRef.  
     Following table lists the fields available in ResourceRef. Fields need not be present. The fields, if used, shall be of the specified types. The field content should be as described. 8.2.2.10 URI  
 
