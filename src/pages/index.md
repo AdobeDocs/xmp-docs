@@ -1,6 +1,6 @@
-<Superhero slots="image, heading" theme="light" background="white"/>
+<Superhero slots="image, heading" theme="light" background="white" variant="halfWidth"/>
 
-![XMP (Extensible Metadata Platform)](xmp_banner.png)
+![XMP (Extensible Metadata Platform)](xmp_tagline.png)
 
 # XMP \<br/\> (Extensible Metadata Platform)
 
