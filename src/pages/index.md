@@ -1,4 +1,4 @@
-<Hero slots="image, heading" theme="light" background="white"/>
+<Superhero slots="image, heading" theme="light" background="white"/>
 
 ![XMP (Extensible Metadata Platform)](xmp_banner.png)
 
