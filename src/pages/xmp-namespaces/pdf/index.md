@@ -1,3 +1,8 @@
+---
+title: Adobe PDF namespace
+description: This namespace specifies properties used with Adobe PDF documents.
+---
+
 # Adobe PDF namespace
 
 This namespace specifies properties used with Adobe PDF documents.

@@ -1,3 +1,8 @@
+---
+title: Job
+description: Describes a job for a job-management system.
+---
+
 # Job
 
 Describes a job for a job-management system.

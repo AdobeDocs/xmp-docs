@@ -1,3 +1,8 @@
+---
+title: CuePointParam
+description: A key-value pair describing a parameter of a cue-point Marker.
+---
+
 # CuePointParam
 
 A key-value pair describing a parameter of a cue-point [Marker](../marker/index.md).

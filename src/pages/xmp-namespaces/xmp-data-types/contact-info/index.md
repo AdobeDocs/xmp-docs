@@ -1,3 +1,8 @@
+---
+title: ContactInfo
+description: A structure providing a basic set of information to get in contact with a person.
+---
+
 # ContactInfo
 
 A structure providing a basic set of information to get in contact with a person.

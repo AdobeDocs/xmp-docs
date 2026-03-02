@@ -1,3 +1,8 @@
+---
+title: XMP Media Management namespace
+description: This namespace is primarily for use by digital asset management (DAM) systems.
+---
+
 # XMP Media Management namespace
 
 This namespace is primarily for use by digital asset management (DAM) systems.

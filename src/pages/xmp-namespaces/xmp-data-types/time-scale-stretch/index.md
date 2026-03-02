@@ -1,3 +1,8 @@
+---
+title: timeScaleStretch
+description: A set of parameters used when stretching audio using the Time-Scale stretch mode.
+---
+
 # timeScaleStretch
 
 A set of parameters used when stretching audio using the Time-Scale stretch mode.

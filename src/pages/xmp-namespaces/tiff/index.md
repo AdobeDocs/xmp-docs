@@ -1,3 +1,8 @@
+---
+title: TIFF namespace
+description: EXIF properties for TIFF-derived data.
+---
+
 # TIFF namespace
 
 EXIF properties for TIFF-derived data.

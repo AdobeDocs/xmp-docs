@@ -1,3 +1,8 @@
+---
+title: Font
+description: A structure containing the characteristics of a font used in a document.
+---
+
 # Font
 
 A structure containing the characteristics of a font used in a document.

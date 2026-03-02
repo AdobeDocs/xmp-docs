@@ -1,3 +1,8 @@
+---
+title: XMP Rights Management namespace
+description: The XMP Rights Management namespace contains properties that provide information regarding the legal restrictions associated with a resource.
+---
+
 # XMP Rights Management namespace
 
 The XMP Rights Management namespace contains properties that provide information regarding the legal restrictions associated with a resource.

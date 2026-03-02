@@ -1,3 +1,8 @@
+---
+title: Camera Raw namespace
+description: This namespace specifies settings associated with image files produced in camera raw mode.
+---
+
 # Camera Raw namespace
 
 This namespace specifies settings associated with image files produced in camera raw mode.

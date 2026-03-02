@@ -1,3 +1,8 @@
+---
+title: Flash
+description: A structure describing the flash state.
+---
+
 # Flash
 
 A structure describing the flash state.

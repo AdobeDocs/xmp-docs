@@ -1,3 +1,8 @@
+---
+title: Timecode
+description: A timecode value in video.
+---
+
 # Timecode
 
 A timecode value in video.

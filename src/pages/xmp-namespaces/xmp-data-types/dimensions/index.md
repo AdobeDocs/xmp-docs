@@ -1,3 +1,8 @@
+---
+title: Dimensions
+description: A structure containing dimensions for a drawn object.
+---
+
 # Dimensions
 
 A structure containing dimensions for a drawn object.

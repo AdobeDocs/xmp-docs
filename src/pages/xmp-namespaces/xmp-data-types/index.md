@@ -1,3 +1,8 @@
+---
+title: XMP data types
+description: This page defines a collection of XMP data types that are used to represent values of XMP properties
+---
+
 # XMP data types
 
 This page defines a collection of XMP data types that are used to represent values of XMP properties

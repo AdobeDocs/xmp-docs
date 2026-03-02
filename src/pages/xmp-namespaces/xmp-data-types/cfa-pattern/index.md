@@ -1,3 +1,8 @@
+---
+title: CFAPattern
+description: A structure describing the CFA pattern.
+---
+
 # CFAPattern
 
 A structure describing the CFA pattern.

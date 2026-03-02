@@ -1,3 +1,8 @@
+---
+title: Version
+description: Describes one version of a document.
+---
+
 # Version
 
 Describes one version of a document.

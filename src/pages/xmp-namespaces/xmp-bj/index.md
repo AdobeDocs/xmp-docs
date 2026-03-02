@@ -1,3 +1,8 @@
+---
+title: Basic Job Ticket namespace
+description: This namespace describes very simple workflow or job information.
+---
+
 # Basic Job Ticket namespace
 
 This namespace describes very simple workflow or job information.

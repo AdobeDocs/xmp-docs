@@ -1,3 +1,8 @@
+---
+title: EXIF namespace
+description: EXIF Schema For EXIF-Specific Properties. These properties defined solely by EXIF.
+---
+
 # EXIF namespace
 
 EXIF Schema For EXIF-Specific Properties. These properties defined solely by EXIF.

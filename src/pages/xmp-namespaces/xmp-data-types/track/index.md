@@ -1,3 +1,8 @@
+---
+title: Track
+description: A named set of Markers, that can specify different default time-frame rates from those of the contained markers.
+---
+
 # Track
 
 A named set of Markers, that can specify different default time-frame rates from those of the contained markers.

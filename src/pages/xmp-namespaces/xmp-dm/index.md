@@ -1,3 +1,8 @@
+---
+title: XMP Dynamic Media namespace
+description: This namespace specifies properties used by the Adobe dynamic media group.
+---
+
 # XMP Dynamic Media namespace
 
 This namespace specifies properties used by the Adobe dynamic media group.

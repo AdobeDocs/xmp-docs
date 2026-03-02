@@ -1,3 +1,8 @@
+---
+title: resampleStretch
+description: A set of parameters used when stretching audio using the Resample stretch mode.
+---
+
 # resampleStretch
 
 A set of parameters used when stretching audio using the Resample stretch mode.

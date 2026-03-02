@@ -1,3 +1,8 @@
+---
+title: IPTC Core namespace
+description: IPTC Photo Metadata provides data about photographs and the values can be processed by software. Each individual metadata entity is called a property and the...
+---
+
 # IPTC Core namespace
 
 IPTC Photo Metadata provides data about photographs and the values can be processed by software. Each individual metadata entity is called a property and they are grouped into Administrative, Descriptive and Rights Related properties.

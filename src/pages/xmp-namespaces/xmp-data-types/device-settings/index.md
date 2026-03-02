@@ -1,3 +1,8 @@
+---
+title: DeviceSettings
+description: A structure describing the device settings.
+---
+
 # DeviceSettings
 
 A structure describing the device settings.

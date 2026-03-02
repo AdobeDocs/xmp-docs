@@ -1,3 +1,8 @@
+---
+title: Marker
+description: "A marker type used to describe an important location in an audio or video sequence. It is a value of the xmpDM:markers array in a Track."
+---
+
 # Marker
 
 A marker type used to describe an important location in an audio or video sequence. It is a value of the xmpDM:markers array in a [Track](../track/index.md).

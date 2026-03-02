@@ -1,3 +1,8 @@
+---
+title: Photoshop namespace
+description: This namespace specifies properties used by Adobe Photoshop
+---
+
 # Photoshop namespace
 
 This namespace specifies properties used by Adobe Photoshop

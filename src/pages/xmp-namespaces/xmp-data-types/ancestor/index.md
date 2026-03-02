@@ -1,3 +1,8 @@
+---
+title: Ancestor
+description: A structure identifying a document that was copied or placed into the current document.
+---
+
 # Ancestor
 
 A structure identifying a document that was copied or placed into the current document.

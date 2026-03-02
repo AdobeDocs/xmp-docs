@@ -1,3 +1,8 @@
+---
+title: Colorant
+description: A structure containing the characteristics of a colorant (swatch) used in a document.
+---
+
 # Colorant
 
 A structure containing the characteristics of a colorant (swatch) used in a document.

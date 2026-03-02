@@ -1,3 +1,8 @@
+---
+title: Thumbnail
+description: A thumbnail image for a file.
+---
+
 # Thumbnail
 
 A thumbnail image for a file.
