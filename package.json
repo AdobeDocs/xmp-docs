@@ -19,10 +19,12 @@
     "normalizeLinks": "npx --yes github:AdobeDocs/adp-devsite-utils normalizeLinks -v",
     "buildSiteWideBanner": "npx --yes github:AdobeDocs/adp-devsite-utils buildSiteWideBanner -v",
     "buildSiteMetadata": "npx --yes github:AdobeDocs/adp-devsite-utils buildSiteMetadata -v",
+    "buildContributors": "npx --yes github:AdobeDocs/adp-devsite-utils buildContributors -v",
     "lint": "npx --yes github:AdobeDocs/adp-devsite-utils runLint -v",
     "lint:errorOnly": "npx --yes github:AdobeDocs/adp-devsite-utils runLint",
     "link:skipdeadlinks": "npx --yes github:AdobeDocs/adp-devsite-utils runLint --skip-dead-links -v",
-    "link:deadlinkonly": "npx --yes github:AdobeDocs/adp-devsite-utils runLint --dead-links-only -v",
+    "link:deadlinkonly": "npx --yes github:AdobeDocs/adp-devsite-utils runLint --external-links-only -v",
+    "link:checkAllLinks": "npx --yes github:AdobeDocs/adp-devsite-utils runLint --internal-links-only --external-links-only -v",
     "redirectCheck:stage": "npx --yes github:AdobeDocs/adp-devsite-utils redirectChecker stage --verbose",
     "redirectCheck:prod": "npx --yes github:AdobeDocs/adp-devsite-utils redirectChecker prod --verbose"
   }
