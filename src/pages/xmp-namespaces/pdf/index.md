@@ -1,0 +1,20 @@
+---
+title: Adobe PDF namespace
+description: This namespace specifies properties used with Adobe PDF documents.
+---
+
+# Adobe PDF namespace
+
+This namespace specifies properties used with Adobe PDF documents.
+
+- The namespace URI is [http://ns.adobe.com/pdf/1.3/](http://ns.adobe.com/pdf/1.3/)
+
+- The preferred namespace prefix is pdf
+
+|    |           |    |
+|----|-----------|----|
+|**Name**|**Description**|**Type**|
+|pdf:Keywords|Keywords.  |[Text](../xmp-data-types/index.md#text)|
+|pdf:PDFVersion|The PDF file version (for example: 1.0, 1.3, and so on).  |[Text](../xmp-data-types/index.md#text)|
+|pdf:Producer|The name of the tool that created the PDF document.  |[AgentName](../xmp-data-types/index.md#agent-name)|
+|pdf:Trapped|True when the document has been trapped.  |[Boolean](../xmp-data-types/index.md#boolean)|

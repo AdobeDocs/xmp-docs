@@ -1,8 +1,13 @@
-<Hero slots="image, heading" theme="light" background="white"/>
+---
+title: XMP (Extensible Metadata Platform)
+description: Adobe's Extensible Metadata Platform (XMP) is a file labeling technology that lets you embed metadata into files during the content creation process.
+---
 
-![XMP (Extensible Metadata Platform)](xmp_banner.png)
+<Superhero slots="image, heading" theme="light" background="white" variant="halfWidth"/>
 
-# XMP <br/> (Extensible Metadata Platform)
+![XMP (Extensible Metadata Platform)](xmp_tagline.png)
+
+# XMP \<br/\> (Extensible Metadata Platform)
 
 ## Overview
 

@@ -1,0 +1,19 @@
+---
+title: Dimensions
+description: A structure containing dimensions for a drawn object.
+---
+
+# Dimensions
+
+A structure containing dimensions for a drawn object.
+
+- The namespace URI is [http://ns.adobe.com/xap/1.0/sType/Dimensions#](http://ns.adobe.com/xap/1.0/sType/Dimensions#)
+
+- The preferred namespace prefix is stDim
+
+|    |           |    |
+|----|-----------|----|
+|**Name**|**Description**|**Type**|
+|stDim:h|Height magnitude  |[Real](../../../xmp-namespaces/xmp-data-types/index.md#real)|
+|stDim:w|Width magnitude  |[Real](../../../xmp-namespaces/xmp-data-types/index.md#real)|
+|stDim:unit|Units. For example: inch, mm, pixel, pica, point.  |Open Choice of [Text](../../../xmp-namespaces/xmp-data-types/index.md#text)|

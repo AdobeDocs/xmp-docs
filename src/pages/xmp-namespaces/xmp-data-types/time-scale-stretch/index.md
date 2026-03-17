@@ -1,0 +1,19 @@
+---
+title: timeScaleStretch
+description: A set of parameters used when stretching audio using the Time-Scale stretch mode.
+---
+
+# timeScaleStretch
+
+A set of parameters used when stretching audio using the Time-Scale stretch mode.
+
+- The namespace URI is [http://ns.adobe.com/xmp/1.0/DynamicMedia/](http://ns.adobe.com/xmp/1.0/DynamicMedia/)
+
+- The preferred namespace prefix is xmpDM
+
+|    |           |    |
+|----|-----------|----|
+|**Name**|**Description**|**Type**|
+|xmpDM:frameOverlappingPercentage|The percentage of overlap between frames  |[Real](../../../xmp-namespaces/xmp-data-types/index.md#real)|
+|xmpDM:frameSize|The splices per beat  |[Real](../../../xmp-namespaces/xmp-data-types/index.md#real)|
+|xmpDM:quality|One of high, medium or low  |Closed Choice of [Text](../../../xmp-namespaces/xmp-data-types/index.md#text)|
